@@ -17,7 +17,7 @@ It includes:
 
 VR-GD addresses the lack of bimanual and complex dynamic gestures in existing datasets. It captures realistic variations in hand size, skin tone, and facial structure, making it an ideal benchmark for **VR gesture recognition**, **HCI**, and **controller-free interaction research**.
 
-![Dataset Overview]([images/dataset_overview.png](https://drive.google.com/file/d/12qRebIzjKSDl60t_S3Ap2Fym0JB8UO9Q/view?usp=drive_link))
+![Dataset Overview](https://drive.google.com/uc?export=view&id=12qRebIzjKSDl60t_S3Ap2Fym0JB8UO9Q)
 
 ## B. Dataset Format
 
@@ -30,7 +30,7 @@ Participant-specific directories: P{participant_id}
    └──Recording session subdirectories: R{recording_num}
    
 ---
-![Dataset Format](images/dataset_overview.png)
+![Dataset Format]((https://drive.google.com/uc?export=view&id=1Z1ev2GiKDdR9gZNQCQwQ1oDK3e7L1siv))
 
 The dataset’s technical architecture consists of two primary components:
 Image Repositories (DEPTH DATA):
@@ -55,11 +55,11 @@ Our novel dataset is evenly divided into four primary classes, each covering var
 This category covers static gestures for quick VR mode activation and system boot. It comprises five simple static gestures performed with one hand (G1,G2,G3) and two hands (G4,G5). The gestures are designed for rapid recognition and serve as entry points to various VR interaction modes. Each gesture is characterized by a stationary hand shape that can be briefly held, limiting false positives and guaranteeing strong detection across users and contexts. 
 
 **Sample Images:**  
-![Activation 1](images/vr_mode_activation/G1.png)  
-![Activation 2](images/vr_mode_activation/G2.png)  
-![Activation 3](images/vr_mode_activation/G3.png)  
-![Activation 4](images/vr_mode_activation/G4.png)  
-![Activation 5](images/vr_mode_activation/G5.png)
+![Activation 1](https://drive.google.com/uc?export=view&id=1hDBlgkKo8Ai4M8so6gq2mzyVzJyo4j1n) 
+![Activation 2](https://drive.google.com/uc?export=view&id=1KOOIsF2Xvfr7qBWBqSdMH-K-lAPpF0gE)  
+![Activation 3](https://drive.google.com/uc?export=view&id=1oqvMEZuEZK71JntEd2nmX4vO4tZRFCSP)) 
+![Activation 4](https://drive.google.com/uc?export=view&id=1CcajANAMnBWh9XIf2s1evIEDlbGTmxPt)  
+![Activation 5](https://drive.google.com/uc?export=view&id=1HwHOn2Rl-BMKJHpf5BGLKtSl19-cWy1j)
 
 **Video:**  
 [Video Link](videos/vr_mode_activation.mp4)
