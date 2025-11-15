@@ -62,7 +62,8 @@ This category covers static gestures for quick VR mode activation and system boo
 ![Activation 5](https://drive.google.com/uc?export=view&id=1HwHOn2Rl-BMKJHpf5BGLKtSl19-cWy1j)
 
 **Video:**  
-[![VR-GD Video](https://drive.google.com/uc?export=view&id=<THUMB_ID>)](https://drive.google.com/file/d/1vUqTTEdhfcU3xwtFBwPbo4Wbjzm7ZtQd/view)
+[[![VR-GD Video] (https://drive.google.com/uc?export=download&id=1vUqTTEdhfcU3xwtFBwPbo4Wbjzm7ZtQd)
+
 
 
 ---
