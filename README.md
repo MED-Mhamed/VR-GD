@@ -17,7 +17,7 @@ It includes:
 
 VR-GD addresses the lack of bimanual and complex dynamic gestures in existing datasets. It captures realistic variations in hand size, skin tone, and facial structure, making it an ideal benchmark for **VR gesture recognition**, **HCI**, and **controller-free interaction research**.
 
-![Dataset Overview](images/dataset_overview.png)
+![Dataset Overview]([images/dataset_overview.png](https://drive.google.com/file/d/12qRebIzjKSDl60t_S3Ap2Fym0JB8UO9Q/view?usp=drive_link))
 
 ## B. Dataset Format
 
